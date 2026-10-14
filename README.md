@@ -6,7 +6,20 @@ This project analyzes e-commerce sales performance and customer purchasing behav
 
 The objective is to transform transactional data into meaningful business metrics and insights that can support data-driven decision-making.
 
-> **Data Disclaimer:** Clearly identify whether the dataset used in this repository is synthetic sample data or an actual dataset with permission to share it.
+> **Data Disclaimer:** ## Dataset
+
+This project uses a **synthetic (dummy) e-commerce dataset** created for educational and portfolio purposes.
+
+The dataset does not represent real customers, transactions, or business performance.
+
+The project includes four CSV files:
+
+- `customers.csv` — Customer information.
+- `products.csv` — Product details and unit costs.
+- `orders.csv` — Order dates and customer references.
+- `order_items.csv` — Products, quantities, and selling prices for each order.
+
+The data is designed to support SQL analysis of sales performance, customer behavior, repeat purchases, customer segmentation, product performance, and market basket analysis..
 
 ## Business Objectives
 
