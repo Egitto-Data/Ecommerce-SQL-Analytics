@@ -131,20 +131,20 @@ Ecommerce-SQL-Analytics/
 │   ├── orders.csv
 │   └── order_items.csv
 ├── sql/
-│   ├── 00_create_schema.sql
-│   ├── 01_sales_kpis.sql
-│   ├── 02_customer_analysis.sql
-│   ├── 03_repeat_purchase_rate.sql
-│   ├── 04_monthly_sales_trends.sql
-│   ├── 05_growth_analysis.sql
-│   ├── 06_running_total_moving_average.sql
-│   ├── 07_customer_segmentation.sql
-│   ├── 08_rfm_analysis.sql
-│   ├── 09_product_analysis.sql
-│   ├── 10_basket_analysis.sql
-│   ├── 11_customer_lifetime.sql
-│   └── 12_data_quality_checks.sql
-├── docs/
+    ├── 00_create_schema.sql
+    ├── 01_sales_kpis.sql
+    ├── 02_customer_analysis.sql
+    ├── 03_repeat_purchase_rate.sql
+    ├── 04_monthly_sales_trends.sql
+    ├── 05_growth_analysis.sql
+    ├── 06_running_total_moving_average.sql
+    ├── 07_customer_segmentation.sql
+    ├── 08_rfm_analysis.sql
+    ├── 09_product_analysis.sql
+    ├── 10_basket_analysis.sql
+    ├── 11_customer_lifetime.sql
+    └── 12_data_quality_checks.sql
+
    
 
 ```
