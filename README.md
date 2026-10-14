@@ -6,7 +6,7 @@ This project analyzes e-commerce sales performance and customer purchasing behav
 
 The objective is to transform transactional data into meaningful business metrics and insights that can support data-driven decision-making.
 
-> **Data Disclaimer:** ## Dataset
+ **Data Disclaimer:** 
 
 This project uses a **synthetic (dummy) e-commerce dataset** created for educational and portfolio purposes.
 
